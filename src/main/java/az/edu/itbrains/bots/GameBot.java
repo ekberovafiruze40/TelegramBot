@@ -40,7 +40,7 @@ public class GameBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "7294082354:AAGf1EuwRhAGEgfBHrAUPhyAcjsi5W0q6d4";
+        return "your bot token";
     }
 
 
